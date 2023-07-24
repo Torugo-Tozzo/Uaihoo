@@ -1,0 +1,21 @@
+filter=0  ou nenhum -> padrão (score) 
+
+filter=1 -> reading_time
+
+filter=2 -> dt_creation
+
+==========================================
+
+order=false (ou nada) -> crescente
+
+order=true -> decrescente
+
+=========================================
+
+initialDate
+finalDate
+
+=========================================
+
+minReadingTime
+maxReadingTime

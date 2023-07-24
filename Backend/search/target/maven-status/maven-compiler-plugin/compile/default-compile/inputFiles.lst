@@ -1,0 +1,9 @@
+/home/discente/Downloads/search/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/model/Result.java
+/home/discente/Downloads/search/src/main/java/com/elasticsearch/search/SearchApplication.java
+/home/discente/Downloads/search/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/facade/ApiUtil.java
+/home/discente/Downloads/search/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/model/SearchResult.java
+/home/discente/Downloads/search/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/model/Error.java
+/home/discente/Downloads/search/src/main/java/com/elasticsearch/search/domain/ESClient.java
+/home/discente/Downloads/search/src/main/java/com/elasticsearch/search/service/SearchService.java
+/home/discente/Downloads/search/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/facade/SearchApi.java
+/home/discente/Downloads/search/src/main/java/com/elasticsearch/search/controller/SearchController.java
